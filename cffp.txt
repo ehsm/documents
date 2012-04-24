@@ -1,0 +1,136 @@
+*** DRAFT - DO NOT DISTRIBUTE ***
+
+     CALL FOR FUNDING AND PARTICIPATION
+
+     Exceptionally Hard & Soft Meeting
+exploring the frontiers of open source and DIY
+       Berlin, December 28-30 2012
+             http://ehsm.eu
+
+Some electronics books from the 50s claimed making triode tubes would be
+an impossible endeavour for amateurs. Today, there are at least two DIY
+laboratories making not only triodes but also all sorts of vacuum
+electron devices.
+Three years after the first GPS satellite was launched, few people used
+the technology, which was perceived as very complicated and expensive.
+Yet, someone successfully operated his homebrew receiver made from
+hundreds of that time's electronic parts.
+These days, microchips are often thought to be impenetrable and
+impossible to manufacture without large-scale facilities. But many
+individuals are reverse engineering microelectronics designs, often
+breaking security systems based on the obscurity of the silicon layout.
+Some are even devising DIY methods to replicate parts of the microchip
+manufacturing process, with impressive results.
+
+What are the frontiers of DIY technology? The first Exceptionally Hard &
+Soft Meeting (EHSM) will feature presentations of the brightest DIY
+achievements. But we do not want to stop at DIY. In fact, we should not,
+because teamwork is the only way to get the big things done.
+
+The open source ethos is about keeping the freedom and openness of DIY
+when many people are involved. At a time when thousands of developers
+from hundreds of companies contribute to Linux and the world's largest
+physics laboratories share openly licensed hardware designs on OHWR, we
+will explore the cutting-edge open source hardware and software
+practices.
+
+This premiere of the EHSM will be held in Berlin on December 28-30 2012.
+Everyone is welcome to attend it. Curiosity is enough to qualify, and
+we have kept the minimal entrance fee affordable. (Please order your
+ticket as soon as possible, see below)
+
+THEY ARE ALREADY COMING
+To give you an idea of what is coming up, we are pleased to announce
+that the following speakers will be presenting their awesome work:
+*****TBD*****
+More speakers will be announced as we confirm them, check http://ehsm.eu
+for the latest information!
+
+TICKETS AND FUNDING
+EHSM is entirely supported by its attendees and sponsors. To help us make
+this event happen, please donate and/or order your ticket as soon as
+possible by visiting our website http://ehsm.eu.
+Prices are:
+* 35E - day ticket, valid for any single day of the conference.
+* 50E - early registration fee (ends July 15th!). Ticket valid for all 3
+  days.
+* 80E - regular registration fee (after July 15th). Ticket valid for all
+  3 days.
+* 200E - supporter ticket, with our thanks and your name on the website.
+* 1337E - gold supporter ticket, with our thanks and your company/project
+  logo on the website and the printed programme.
+EHSM is a non-profit event and most of the money will be used to cover
+speakers' travel expenses.
+
+SUBMIT YOUR PRESENTATION
+Since we do not pretend to be aware of all the amazing tech out there, we
+are expecting your proposals.
+
+Send a mail to orga@ehsm.eu with at least the following information:
+* Name of the speaker
+* Short bio of the speaker and/or his/her team
+* Speaker contact information (e-mail + mobile phone if possible)
+* Where the speaker will be traveling from
+* Title of the presentation
+* Abstract
+* Links to more information (if available)
+
+The standard format for presentations is one-hour lectures, but we are
+flexible. Write us a note if you have special time or other
+requirements.
+
+We are waiting for your presentations in these areas:
+* Open hardware
+* Big open source project management
+* Licensing and business models for open source
+* Manufacturing: metalwork, glass blowing, ...
+* Electronics engineering
+* Signal processing
+* Radars
+* Semiconductors
+* Rocket science
+* Thin film technologies
+* Hardware acceleration
+* Satellite design
+* Vacuum electron devices
+* Millimeter wave technology
+* Reverse engineering
+* Applied quantum physics
+* Thermodynamics
+* Nuclear science
+* Nanotechnologies
+* High speed photography
+...and anything awesome which is not listed here.
+
+If you know of someone else's work that would be relevant, feel free to
+tip us! (orga@ehsm.eu)
+
+FOR ACADEMIA
+While researchers are most welcome to present their work at EHSM, please
+note that this is not a traditional academic conference. We will not
+formally publish proceedings(*), and we do not claim affiliation with
+any institution. We are also OK with previously published work, we
+simply expect high-quality presentations.
+
+(*) Contrary to the practice of most academic publishers, we will,
+however, do our best to ensure the free dissemination of information.
+
+DATES
+Doors open: December 28th, 2012, 09:00
+Doors close: December 30th, 2012, 18:00
+Early registration fee ends: July 15th, 2012
+Submission deadline: November 21st, 2012
+Notifications of acceptance : November 28th, 2012 (or sooner)
+Full programme published: November 28th, 2012
+
+VENUE
+TU Berlin, Hörsaalgebäude Elektrotechnik
+Lecture room HE101
+Straße des 17. Juni 136
+10623 Berlin, Germany
+U Bahn: Ernst-Reuter-Platz
+
+We thank TU Berlin and Freitagsrunde for providing the venue.
+
+WE ARE LOOKING FORWARD TO WELCOMING YOU IN BERLIN!
+- the EHSM organizing committee <http://ehsm.eu>
