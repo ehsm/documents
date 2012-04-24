@@ -71,7 +71,7 @@ div#header p, div#header h1 {
 }
 
 div#headerinside, div#footerinside {
-	width: 820px;
+	width: 90%;
 	margin: 0 auto;
 }
 
@@ -122,8 +122,7 @@ ul#menu li a.selected {
 
 div#intro {
 	color: #000;
-	font-size: 15px;
-	text-shadow: 1px 2px 1px #ccc;
+	font-size: 16px;
 	margin-bottom: 20px;
 }
 
@@ -148,7 +147,7 @@ div#title {
 
 #container {
 	position: relative;
-	width: 820px;
+	width: 90%;
 	margin: 20px auto 10px;
 }
 
