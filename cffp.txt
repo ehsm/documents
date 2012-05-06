@@ -4,6 +4,7 @@
 exploring the frontiers of open source and DIY
        Berlin, December 28-30 2012
              http://ehsm.eu
+              @ehsmeeting
 
 Some electronics books from the 50s claimed making triode tubes would be
 an impossible endeavour for amateurs. Today, there are at least two DIY
