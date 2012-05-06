@@ -42,7 +42,17 @@ ticket as soon as possible, see below)
 THEY ARE ALREADY COMING
 To give you an idea of what is coming up, we are pleased to announce
 that the following speakers will be presenting their awesome work:
-*****TBD*****
+ * Jeffrey Gough (warrantyvoidifremoved.com) will talk about and
+   demonstrate metalwork techniques. How to go beyond extruded ABS coming
+   from a 3D printer? There might even be a hands-on workshop coming up,
+   stay tuned.
+ * Shawn Tan (aeste.my) has been working on a new open source
+   microprocessor design and will introduce it at EHSM.
+ * Ben Krasnow (benkrasnow.blogspot.com) makes all sorts of seemingly
+   impossible science experiments at home, such as creating aerogel (yes,
+   that thing on spacecraft), Pop Rocks candy, or building a scanning
+   electron microscope. He will talk about a yet undisclosed but
+   promising topic.
 More speakers will be announced as we confirm them, check http://ehsm.eu
 for the latest information!
 
@@ -51,13 +61,13 @@ EHSM is entirely supported by its attendees and sponsors. To help us make
 this event happen, please donate and/or order your ticket as soon as
 possible by visiting our website http://ehsm.eu.
 Prices are:
-* 35E - day ticket, valid for any single day of the conference.
-* 50E - early registration fee (ends July 15th!). Ticket valid for all 3
+* $45 - day ticket, valid for any single day of the conference.
+* $65 - early registration fee (ends July 15th!). Ticket valid for all 3
   days.
-* 80E - regular registration fee (after July 15th). Ticket valid for all
-  3 days.
-* 200E - supporter ticket, with our thanks and your name on the website.
-* 1337E - gold supporter ticket, with our thanks and your company/project
+* $110 - regular registration fee (after July 15th). Ticket valid for
+  all 3 days.
+* $280 - supporter ticket, with our thanks and your name on the website.
+* $1337 - gold supporter ticket, with our thanks and your company/project
   logo on the website and the printed programme.
 EHSM is a non-profit event and most of the money will be used to cover
 speakers' travel expenses.
