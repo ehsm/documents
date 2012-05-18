@@ -161,7 +161,7 @@
             <ITEXT FONT="PakType Tehreer Regular" FONTSIZE="14" CH="The open source ethos is about keeping the freedom and openness of DIY when many people are involved. At a time when thousands of developers from hundreds of companies contribute to Linux and the world's largest physics laboratories share openly licensed hardware designs on OHWR, we will explore the cutting-edge open source hardware and software practices."/>
             <para ALIGN="0"/>
             <para ALIGN="0"/>
-            <ITEXT FONT="PakType Tehreer Regular" FONTSIZE="14" CH="This premiere of the EHSM will be held in Berlin during three days in August 2012. Everyone is welcome to attend it."/>
+            <ITEXT FONT="PakType Tehreer Regular" FONTSIZE="14" CH="This premiere of the EHSM will be held in TBD during three days in October 2012. Everyone is welcome to attend it."/>
             <para ALIGN="0"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -194,15 +194,10 @@
             <para LINESP="14"/>
             <ITEXT CH="• Nick Farr - Financial Accountant based in Washington, DC. Currently, he's helping NGOs and local businesses apply open source and collaborative methods to their work in the hopes of building a more distributed, sustainable economy. He co-founded his local hackerspace, HacDC and plays an active role in the global hackerspace movement."/>
             <para LINESP="14"/>
-            <ITEXT CH="• Michael Frey - PhD student in the &quot;Model-Based Development of Technologies for Self-Organizing"/>
-            <para LINESP="14"/>
-            <ITEXT CH="Decentralized Information Systems in Disaster Management&quot; research group at the Humboldt University of Berlin."/>
-            <para LINESP="14"/>
-            <ITEXT CH="• Stefan Landrock - Passionate photographer, seasoned student of communication architecture, webdesigner. Web: salon.io"/>
-            <para LINESP="14"/>
-            <ITEXT CH="• Nina Engelhardt - PhD student in embedded systems architecture at TU-Berlin."/>
-            <para LINESP="14"/>
             <ITEXT CH="• Anthony Catel - Self-taught software developer and open source enthusiast. Web: weelya.com"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT CH="[ To be completed ]"/>
             <para LINESP="14"/>
             <para LINESP="14"/>
             <PageItemAttributes/>
