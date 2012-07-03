@@ -39,14 +39,6 @@ event happen, please donate and/or order your ticket as soon as possible.</p>
 	</div>
 </div>
 
-<script language="Javascript">
-function setamount(x)
-{
-	document.forms.BB_BuyButtonForm.item_price_1.value = x;
-	document.forms.BB_BuyButtonForm.item_price_1.style.color='black';
-}
-</script>
-
 <div id="container">
 	<div id="full">
 <h2>Electronic ticket</h2>
@@ -54,48 +46,51 @@ function setamount(x)
 <p>Donations of these minimal amounts grant you various goodies and/or access to the conference.
 Payments are processed with Google Checkout.</p>
 <p>Even though the prices are in USD (due to the lack of a good online payment system that accepts EUR directly), European payment cards are accepted.</p>
-<p>Feel free to edit the amount if you wish to donate more money than the minimum ticket price. Donations below the ticket price are also welcome. Thanks!</p>
 <ul>
-<li><a href="javascript:setamount(45)">$45 - day ticket</a>, valid for any single day of the conference.</li>
-<li><a href="javascript:setamount(65)">$65 - early registration fee</a> (ends July 15th!). Ticket valid for all 3 days.</li>
-<li><a href="javascript:setamount(110)">$110 - regular registration fee</a> (after July 15th). Ticket valid for all 3 days.</li>
-<li><a href="javascript:setamount(280)">$280 - supporter ticket</a>, with our thanks and your name on the website.</li>
-<li><a href="javascript:setamount(1337)">$1337 - gold supporter ticket</a>, with our thanks and your company/project logo on the website and the printed programme.</li>
+<li>$45 - day ticket, valid for any single day of the conference.</li>
+<li>$65 - early registration fee (ends July 15th!). Ticket valid for all 3 days.</li>
+<li>$110 - regular registration fee (after July 15th). Ticket valid for all 3 days.</li>
+<li>$280 - supporter ticket, with our thanks and your name on the website.</li>
+<li>$1337 - gold supporter ticket, with our thanks and your company/project logo on the website and the printed programme.</li>
 </ul>
-Your donation:
 
-<script type="text/javascript"> 
-function validateAmount(amount){
-	if(amount.value.match( /^[0-9]+(\.([0-9]+))?$/)){
-		return true;
-	}else{
-		alert('You must enter a valid donation.');
-		amount.focus();
-		return false;
-	}
-}
-</script>
-<form action="https://checkout.google.com/cws/v2/Donations/819710017113246/checkoutForm" id="BB_BuyButtonForm" method="post" name="BB_BuyButtonForm" onSubmit="return validateAmount(this.item_price_1)" target="_top">
-    <input name="item_name_1" type="hidden" value="EHSM ticket and support"/>
-    <input name="item_description_1" type="hidden" value="EHSM ticket and support"/>
-    <input name="item_quantity_1" type="hidden" value="1"/>
-    <input name="item_currency_1" type="hidden" value="USD"/>
-    <input name="item_is_modifiable_1" type="hidden" value="true"/>
-    <input name="item_min_price_1" type="hidden" value="0.01"/>
-    <input name="item_max_price_1" type="hidden" value="25000.0"/>
-    <input name="_charset_" type="hidden" value="utf-8"/>
+<form action="https://checkout.google.com/api/checkout/v2/checkoutForm/Merchant/819710017113246" id="BB_BuyButtonForm" method="post" name="BB_BuyButtonForm" target="_top">
     <table cellpadding="5" cellspacing="0" width="1%">
         <tr>
-            <td align="right" nowrap="nowrap" width="1%">&#x24; <input id="item_price_1" name="item_price_1" onfocus="this.style.color='black'; this.value='';" size="11" style="color:grey;" type="text" value="Enter Amount"/>
+            <td align="right" width="1%">
+                <select name="item_selection_1">
+                    <option value="1">$45.00 - Day ticket</option>
+                    <option value="2">$65.00 - Early registration fee</option>
+                    <option value="3">$280.00 - Supporter ticket</option>
+                    <option value="4">$1,337.00 - Gold supporter ticket</option>
+                </select>
+                <input name="item_option_name_1" type="hidden" value="Day ticket"/>
+                <input name="item_option_price_1" type="hidden" value="45.0"/>
+                <input name="item_option_description_1" type="hidden" value="Day ticket"/>
+                <input name="item_option_quantity_1" type="hidden" value="1"/>
+                <input name="item_option_currency_1" type="hidden" value="USD"/>
+                <input name="item_option_name_2" type="hidden" value="Early registration fee"/>
+                <input name="item_option_price_2" type="hidden" value="65.0"/>
+                <input name="item_option_description_2" type="hidden" value="Early registration fee"/>
+                <input name="item_option_quantity_2" type="hidden" value="1"/>
+                <input name="item_option_currency_2" type="hidden" value="USD"/>
+                <input name="item_option_name_3" type="hidden" value="Supporter ticket"/>
+                <input name="item_option_price_3" type="hidden" value="280.0"/>
+                <input name="item_option_description_3" type="hidden" value="Supporter ticket"/>
+                <input name="item_option_quantity_3" type="hidden" value="1"/>
+                <input name="item_option_currency_3" type="hidden" value="USD"/>
+                <input name="item_option_name_4" type="hidden" value="Gold supporter ticket"/>
+                <input name="item_option_price_4" type="hidden" value="1337.0"/>
+                <input name="item_option_description_4" type="hidden" value="Gold supporter ticket"/>
+                <input name="item_option_quantity_4" type="hidden" value="1"/>
+                <input name="item_option_currency_4" type="hidden" value="USD"/>
             </td>
             <td align="left" width="1%">
-                <input alt="Donate" src="https://checkout.google.com/buttons/donateNow.gif?merchant_id=819710017113246&amp;w=115&amp;h=50&amp;style=white&amp;variant=text&amp;loc=en_US" type="image"/>
+                <input alt="" src="https://checkout.google.com/buttons/buy.gif?merchant_id=819710017113246&amp;w=117&amp;h=48&amp;style=white&amp;variant=text&amp;loc=en_US" type="image"/>
             </td>
         </tr>
     </table>
 </form>
-
-<b>June 18th: Google Checkout is operational again.</b>
 
 </p>
 <h3>2. Check your email for the ticket</h3>
