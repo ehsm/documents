@@ -1,0 +1,45 @@
+@font-face {
+    font-family: ehsm;
+    src: url(OCRAitalic.otf);
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	background: #fff;
+	color: #000;
+}
+
+a:link, a:visited {
+	color: #00f;
+}
+
+a:hover, a:active {
+	color: #f00;
+}
+
+h1, h2, h3, h4, p {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+	clear: both;
+}
+
+div#htext {
+	color: #000;
+	font-size: 23px;
+	text-align: center;
+	text-shadow: 1px 2px 1px #ccc;
+	margin-bottom: 20px;
+}
+
+div#title {
+	font-family: ehsm;
+	color: #000;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 1px 2px 1px #ccc;
+	margin-bottom: 20px;
+}
