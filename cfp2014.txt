@@ -1,0 +1,74 @@
+*********************************
+*** DRAFT - DO NOT DISTRIBUTE ***
+*********************************
+
+           CALL FOR PARTICIPATION
+
+     Exceptionally Hard & Soft Meeting
+pushing the frontiers of open source and DIY
+          Hamburg, June 27-29 2014
+               http://ehsm.eu
+                @ehsmeeting
+
+We think it is fair to say that the first edition of the Exceptionally Hard and Soft Meeting lived up to its promise of "exploring the frontiers of open source and DIY". The programme featured talks(*) from international makers, hackers, scientists and engineers on topics such as nuclear fusion, chip design, vacuum equipment machining, and applied quantum physics. Tutorials gave a welcoming hands-on introduction to people of all levels, including kids.
+
+We want open hardware to deliver on the "third industrial revolution". So not only are we back in summer 2014 for the another edition of the most radical maker conference, but also we are proud to welcome you in an exceptional venue this year - nothing less than Europe's second-largest particle physics laboratory! We believe that collaboration between the greatest makers and researchers at the forefront of science holds a lot of potential.
+
+(*) If you have missed them, check out the videos at http://ehsm.eu/2012/media.html
+
+ATTEND WITHOUT PRESENTING
+Attendance is open to any sufficiently curious mind.
+
+EHSM is entirely supported by its attendees and sponsors. To help us make this event happen, please donate and/or order your ticket as soon as possible by visiting our website http://ehsm.eu.
+Prices are:
+* 45E - student/unemployed online registration
+* 70E - regular online registration (until February 1st)
+* 95E - late online registration (after February 1st)
+* 110E - door ticket
+* 272E - supporter ticket, with our thanks and your name on the website.
+* 1337E - gold supporter ticket, with our thanks and your company/project logo on the website and the printed programme.
+EHSM is a non-profit event and most of the money will be used to cover speakers' travel expenses and transportation of tutorial and exhibition equipment.
+
+SUBMIT YOUR PRESENTATION
+EHSM will maintain its signature eclectic and intense programme. There is a device in your basement that demonstrates violations of Bell's inequalities? We want to see it in action. You are starting up a company to build nuclear fusion reactors? By all means, come and talk about it. Your open source hardware runs some complex, advanced and beautiful scientific instruments? We are eager to learn about it. You have stories to tell about your former job manufacturing ultra high vacuum equipment in the Soviet Union? We want to hear them. You have a great design for a difficult open source product that can be useful to millions? Come and team up with the people who can help implement your ideas. This list is by no means exhaustive, anything technologically awesome will get you invited.
+
+This year, we will try to improve the conference's documentation by publishing proceedings. When relevant, please send us a paper on your presentation topic. We are OK with previously published work, we simply expect high quality and up-to-date content.
+
+Whoever you are, wherever you come from, you are welcome to present relevant work at EHSM. In fact, most of our budget is dedicated to helping authors with travel expenses and equipment shipping. We can also write visa invitation letters if you need one. All lectures are in English.
+
+To submit your presentation, send a mail to team@ehsm.eu with typically the following information:
+* Your name(s). You can be anonymous if you prefer.
+* Short bio
+* Title of the presentation
+* Abstract
+* How much time you would like
+* Full paper (if applicable)
+* Links to more information (if available)
+* Contact information (e-mail + mobile phone if possible)
+* If you need us to arrange your trip:
+  * Where you would be traveling from
+  * If you need accommodation in Hamburg
+
+We will again have an exhibition area where you can show and demonstrate your work - write to the same email address to apply for space. If you are bringing bulky or high-power equipment, make sure to let us know:
+* What surface you would use
+* What assistance you would need for equipment transport between your lab and the conference
+* If you need 3-phase electric power (note that Germany uses 230V/400V 50Hz)
+* What the peak power of your installation would be
+
+Tutorials on any technology topic are also welcome, and may cater to all levels, including beginners and kids.
+
+We are counting on you to make this event awesome. Feel free to nominate other speakers that you would like to see at the conference, too - just write us a quick note and we will contact them.
+
+KEY INFORMATION
+Conference starts: morning of June 27th, 2014
+Conference ends: evening of June 29th, 2014
+Early registration fee ends: February 1st, 2014
+Please submit lectures, tutorials and exhibits before: May 15th, 2014
+
+Conference location:
+Deutsches Elektronen-Synchrotron
+Notkestrasse 85
+22607 Hamburg, Germany
+
+WE ARE LOOKING FORWARD TO WELCOMING YOU IN HAMBURG!
+- EHSM e.V. <http://ehsm.eu>
