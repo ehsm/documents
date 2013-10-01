@@ -12,7 +12,7 @@ pushing the frontiers of open source and DIY
 
 The first edition of the Exceptionally Hard and Soft Meeting lived up to its promise of "exploring the frontiers of open source and DIY". The programme featured talks(*) from international makers, hackers, scientists and engineers on topics such as nuclear fusion, chip design, vacuum equipment machining, and applied quantum physics. Tutorials gave a welcoming hands-on introduction to people of all levels, including kids.
 
-We want open hardware to deliver on the "third industrial revolution". So not only are we back in summer 2014 for the another edition of the most radical maker conference, but also we are proud to welcome you in an exceptional venue this year - nothing less than Europe's second-largest particle physics laboratory! We believe that collaboration between the greatest makers and researchers at the forefront of science holds a lot of potential.
+We want open hardware to deliver on the "third industrial revolution". So not only are we back in summer 2014 for another edition of the most radical maker conference, but also we are proud to welcome you in an exceptional venue this year - nothing less than Europe's second-largest particle physics laboratory! We believe that collaboration between the greatest makers and researchers at the forefront of science holds a lot of potential.
 
 (*) Check out the videos at http://ehsm.eu/2012/media.html
 
