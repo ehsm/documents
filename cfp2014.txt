@@ -1,16 +1,12 @@
-*********************************
-*** DRAFT - DO NOT DISTRIBUTE ***
-*********************************
-
            CALL FOR PARTICIPATION
 
      Exceptionally Hard & Soft Meeting
 pushing the frontiers of open source and DIY
-          Hamburg, June 27-29 2014
+     DESY, Hamburg site, June 27-29 2014
                http://ehsm.eu
                 @ehsmeeting
 
-Collaboration between open source and research communities empowers open hardware to explore new grounds and hopefully deliver on the "third industrial revolution". The first edition of the Exceptionally Hard and Soft Meeting featured lectures delivered by international makers, hackers, scientists and engineers on topics such as nuclear fusion, chip design, vacuum equipment machining, and applied quantum physics. Tutorials gave a welcoming hands-on introduction to people of all levels, including kids. 
+Collaboration between open source and research communities empowers open hardware to explore new grounds and hopefully deliver on the "third industrial revolution". The first edition of the Exceptionally Hard and Soft Meeting featured lectures delivered by international makers, hackers, scientists and engineers on topics such as nuclear fusion, chip design, vacuum equipment machining, and applied quantum physics. Tutorials gave a welcoming hands-on introduction to people of all levels, including kids.
 
 EHSM is back in summer 2014 for another edition of the most cutting-edge open source conference. This year we are proud to welcome you to an exceptional venue: DESY, Europe's second-largest particle physics laboratory!
 
@@ -66,7 +62,7 @@ Early registration fee ends: February 1st, 2014
 Please submit lectures, tutorials and exhibits before: May 15th, 2014
 
 Conference location:
-Deutsches Elektronen-Synchrotron (DESY)
+DESY
 Notkestrasse 85
 22607 Hamburg, Germany
 
