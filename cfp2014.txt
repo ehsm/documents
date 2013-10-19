@@ -6,33 +6,62 @@ pushing the frontiers of open source and DIY
                http://ehsm.eu
                 @ehsmeeting
 
-Collaboration between open source and research communities empowers open hardware to explore new grounds and hopefully deliver on the "third industrial revolution". The first edition of the Exceptionally Hard and Soft Meeting featured lectures delivered by international makers, hackers, scientists and engineers on topics such as nuclear fusion, chip design, vacuum equipment machining, and applied quantum physics. Tutorials gave a welcoming hands-on introduction to people of all levels, including kids.
+Collaboration between open source and research communities empowers open
+hardware to explore new grounds and hopefully deliver on the "third
+industrial revolution". The first edition of the Exceptionally Hard and
+Soft Meeting featured lectures delivered by international makers,
+hackers, scientists and engineers on topics such as nuclear fusion, chip
+design, vacuum equipment machining, and applied quantum physics.
+Tutorials gave a welcoming hands-on introduction to people of all
+levels, including kids.
 
-EHSM is back in summer 2014 for another edition of the most cutting-edge open source conference. This year we are proud to welcome you to an exceptional venue: DESY, Europe's second-largest particle physics laboratory!
+EHSM is back in summer 2014 for another edition of the most cutting-edge
+open source conference. This year we are proud to welcome you to an
+exceptional venue: DESY, Europe's second-largest particle physics
+laboratory!
 
 Previous EHSM lectures may be viewed at: http://ehsm.eu/2012/media.html
 
 ATTEND WITHOUT PRESENTING:
 Attendance is open to all curious minds.
 
-EHSM is entirely supported by its attendees and sponsors. To help us make this event happen, please donate and/or order your ticket as soon as possible by visiting our website http://ehsm.eu.
+EHSM is entirely supported by its attendees and sponsors. To help us
+make this event happen, please donate and/or order your ticket as soon
+as possible by visiting our website http://ehsm.eu.
 Prices are:
 * 45E - student/low-income online registration
 * 70E - regular online registration (until February 1st)
 * 95E - late online registration (after February 1st)
 * 110E - door ticket
 * 272E - supporter ticket, with our thanks and your name on the website.
-* 1337E - gold supporter ticket, with our thanks and your company/project logo on the website and the printed programme.
-EHSM is a non-profit event where the majority of the budget covers speakers' travel and transportation of exhibition equipment.
+* 1337E - gold supporter ticket, with our thanks and your
+  company/project logo on the website and the printed programme.
+EHSM is a non-profit event where the majority of the budget covers
+speakers' travel and transportation of exhibition equipment.
 
 SPEAKERS: SUBMIT YOUR PRESENTATION
-Is there a device in your basement that demonstrates violations of Bell's inequalities? We want to see it in action. Are you starting up a company to build nuclear fusion reactors? Tell us about it. Does your open source hardware or software run some complex, advanced and beautiful scientific instruments? We are eager to learn about it. Do you have stories to tell about your former job manufacturing ultra high vacuum equipment in the Soviet Union? We want to hear about your experiences. Do you have a great design for a difficult open source product that can be useful to millions? Team up with the people who can help implement your ideas.
+Is there a device in your basement that demonstrates violations of
+Bell's inequalities? We want to see it in action. Are you starting up a
+company to build nuclear fusion reactors? Tell us about it. Does your
+open source hardware or software run some complex, advanced and
+beautiful scientific instruments? We are eager to learn about it. Do you
+have stories to tell about your former job manufacturing ultra high
+vacuum equipment in the Soviet Union? We want to hear about your
+experiences. Do you have a great design for a difficult open source
+product that can be useful to millions? Team up with the people who can
+help implement your ideas.
 
-Whoever you are, wherever you come from, you are welcome to present technologically awesome work at EHSM. Travel assistance and visa invitation letters provided upon request. All lectures are in English. 
+Whoever you are, wherever you come from, you are welcome to present
+technologically awesome work at EHSM. Travel assistance and visa
+invitation letters provided upon request. All lectures are in English.
 
-This year, we will try to improve the conference's documentation by publishing proceedings. When relevant, please send us a paper on your presentation topic. We are OK with previously published work, we simply expect high quality and up-to-date content.
+This year, we will try to improve the conference's documentation by
+publishing proceedings. When relevant, please send us a paper on your
+presentation topic. We are OK with previously published work, we simply
+expect high quality and up-to-date content.
 
-To submit your presentation, send a mail to team@ehsm.eu with typically the following information:
+To submit your presentation, send a mail to team@ehsm.eu with typically
+the following information:
 * Your name(s). You can be anonymous if you prefer.
 * Short bio
 * Title of the presentation
@@ -45,15 +74,22 @@ To submit your presentation, send a mail to team@ehsm.eu with typically the foll
   * Where you would be traveling from
   * If you need accommodation in Hamburg
 
-We will again have an exhibition area where you can show and demonstrate your work - write to the same email address to apply for space. If you are bringing bulky or high-power equipment, make sure to let us know:
+We will again have an exhibition area where you can show and demonstrate
+your work - write to the same email address to apply for space. If you
+are bringing bulky or high-power equipment, make sure to let us know:
 * What surface you would use
-* What assistance you would need for equipment transport between your lab and the conference
-* If you need 3-phase electric power (note that Germany uses 230V/400V 50Hz)
+* What assistance you would need for equipment transport between your
+  lab and the conference
+* If you need 3-phase electric power
+  (note that Germany uses 230V/400V 50Hz)
 * What the peak power of your installation would be
 
-Tutorials on any technology topic are also welcome, and may cater to all levels, including beginners and kids.
+Tutorials on any technology topic are also welcome, and may cater to all
+levels, including beginners and kids.
 
-We are counting on you to make this event awesome. Feel free to nominate other speakers that you would like to see at the conference, too - just write us a quick note and we will contact them.
+We are counting on you to make this event awesome. Feel free to nominate
+other speakers that you would like to see at the conference, too - just
+write us a quick note and we will contact them.
 
 KEY INFORMATION:
 Conference starts: morning of June 27th, 2014
