@@ -1,3 +1,9 @@
+/* Typography and main colors */
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #F9FDEE;
+  background: #2b272b;
+}
 h1,h2,h3,h3 a  {
   font-family: 'Cabin Sketch', arial, serif;
   color: #fff;
@@ -7,22 +13,63 @@ h4 {
   -webkit-margin-after: 0;	
 }
 h1 { font-size: 6em; }
-body {
-  font-family: 'Nunito', sans-serif;
-  color: #F9FDEE;
-  background: #2b272b;
-}
 a {
   color: #4ccc82;
   text-decoration: none;
 }
+a:hover {
+  background: #4ccc82;
+  color: #2b272b;
+  text-decoration: none;
+  padding: 0.05em 0.15em;
+  margin: -0.05em -0.15em;
+}
+strong {
+  padding: 0.05em 0.15em;
+  background: #942445;
+  font-weight: normal;
+}
+li {
+  font-size: 1.35em;
+  line-height: 1.3em;
+}
+h1 {
+  padding-left: 5px;
+}
+h1 a img {
+  border:0;
+}
+h2 {
+  font-size: small;
+  padding-left: 10px;
+}
+h3 {
+  /*text-shadow: 0 0 5px white;*/
+  font-size: 2.5em;
+  margin-top: 0.8em;
+  margin-bottom: 0.5em;
+}
+h3.timestamp { padding-left:10px; }
+h4 {
+  font-size: 2.3em;
+}
+p {
+	font-size: 1.35em;
+	margin: 0.3em 0 0.5em 0;
+	line-height: 1.3em;
+}
+
+/* Menu and layout */
 #wrapper {
   width: 960px;
   margin: 0 auto;
 }
-strong {
-  background: #942445;
-  font-weight: normal;
+.column {
+  float: left;
+  width: 33%;
+}
+.inner {
+  padding: 10px;
 }
 #menu {
   position: fixed;
@@ -59,40 +106,6 @@ strong {
   margin: 0;
   padding: 0;
 }
-strong {
-  padding: 4px 6px;
-  background: #942445;
-}
-li {
-  font-size: 1.5em;
-}
-h1 {
-  padding-left: 5px;
-}
-h1 a img {
-  border:0;
-}
-h2 {
-  font-size: small;
-  padding-left: 10px;
-}
-h3 {
-  /*text-shadow: 0 0 5px white;*/
-  font-size: 3em;
-  margin-top: 20px;
-  margin-bottom: 2px;
-}
-h3.timestamp { padding-left:10px; }
-h4 {
-  font-size: 2.3em;
-}
-.column {
-  float: left;
-  width: 33%;
-}
-.inner {
-  padding: 10px;
-}
 dt {
   float: left;
   clear: left; 
@@ -101,6 +114,8 @@ dd {
   color: #fff;
   margin-left: 50px;
   cursor: pointer; }
+
+/* Special tags */  
 .s {
   font-size: small;
   cursor: default;
@@ -111,10 +126,6 @@ dd {
 
 .details { font-style: italic; }
 .details a { font-size:80%;}
-p {
-	font-size: 1.5em;
-	margin: 4px;
-}
 .celebrate {
   padding-left: 1em;
   border-left: 5px solid #F9FDEE;
