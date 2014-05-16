@@ -89,6 +89,20 @@ conferences, and publishes a magazine called UpTimes.</p>
 
 <h3>Programme</h3>
 
+<h4>Porting NetBSD to the LatticeMico32 open source CPU</h4>
+
+<p>In this presentation, I will describe the work I did on the open source LatticeMico32 softcore CPU to add a MMU (Memory Management Unit) to its pipeline and then how I added support for this enhanced LM32 CPU in the <a href="http://netbsd.org">NetBSD</a> 6 kernel.</p>
+
+<p>I will first quickly introduce the LatticeMico32 CPU and what FPGAs can do. Then I will focus on explaining what a MMU is and how the current MMU design that was added to LM32 works. I will then show an overview of the steps you need to accomplish to add support for a new CPU and a new System-on-Chip to the NetBSD kernel. Afterward I will explain some of the choices made for this port, especially those in relation with the handling of the MMU by the NetBSD kernel: the (machine-dependant) virtual memory system (aka pmap).</p>
+
+<p>I will (try to) demo the boot of the NetBSD kernel on QEMU emulating LM32 CPU the and then on the Milkymist One board.</p>
+
+<p><img src="yann_sionneau.jpg" style="float: right;"><b>Speaker:</b> Yann Sionneau is a 26 year-old French embedded software engineer passionate about learning how embedded systems work in general.</p>
+
+<p>Yann is part of the <a href="http://m-labs.hk">M-Labs</a> (fka Milkymist) community that is working on developing open source digital designs on FPGAs as well as making it more and more easy to do so by providing a simple but yet powerful framework for System-on-Chip design.</p>
+
+<p>Yann contributed the original RTEMS Board Support Package of the Milkymist One video synthesizer, a Memory Management Unit (MMU) for the Open Source soft-core CPU LatticeMico32, and ported NetBSD kernel for the LM32 CPU and the Milkymist System-on-Chip.</p>
+
 <h4>The Maker Movement meets patent law &ndash; how many windows are open in the patent fortress?</h4>
 
 <p><img src="natalia_lukaszewicz.jpg" style="float: right;">As the Maker/DIY movement gets more technologically advanced, it encounters patent law.</p>
