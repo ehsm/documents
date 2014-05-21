@@ -89,11 +89,19 @@ conferences, and publishes a magazine called UpTimes.</p>
 
 <h3>Programme</h3>
 
+<h4>The Open Source Network Tester on NetFPGA-10G </h4>
+
+<p><img src="osnt.jpg" style="float: right;">Despite network monitoring and testing being critical for computer networks, current solutions are both extremely expensive and inflexible. Into this lacuna we launch the Open Source Network Tester (OSNT), a fully open-source traffic generator and capture system. Our prototype implementation on the <a href="http://netfpga.org/10G_specs.html">NetFPGA-10G</a> supports 4x10Gbps traffic generation across all packet sizes and traffic capture is supported up to 2x10Gbps with native host software. Our system implementation provides methods for scaling and coordinating multiple generator/capture systems and supports 6.25ns timestamp resolution with clock drift and phase coordination maintained by a GPS input. Additionally, our approach has demonstrated lower-cost than comparable commercial systems while achieving comparable levels of precision and accuracy; all within an open-source framework extensible with new features to support new applications, while permitting validation and review of the implementation.</p>
+
+<p><b>Speakers:</b> <img src="marc_bruyere.jpg" style="float: right;">Marc Bruyere is a PhD Student at the <a href="http://www.laas.fr">LAAS/CNRS</a> and a Dell Force10 employee. His thesis is about network monitoring on programmable hardware. Used to be NOC member at the CCC congress, co-founder of the non profit ISP <a href="http://tetaneutral.net">tetaneutral.net</a>, co-founder of <a href="http://snootlab.com">Snootlab</a> and founder of the <a href="http://thsf.tetalab.org">Toulouse HackerSpace Factory</a>.</p>
+
+<p>Dr. Gianni Antichi is a Research Associate at the <a href="http://www.cl.cam.ac.uk/">Cambridge Computer Laboratory</a>. Dr. Antichi received the B.E. and the M.E. degrees in telecommunications engineering and the PhD degree in information engineering from the University of Pisa, Italy, in 2005, 2007, and 2011, respectively. His research interests are in the area of hardware accelerated networking systems, network design, network monitoring, packet classification and software defined networks.</p>
+
 <h4>Porting NetBSD to the LatticeMico32 open source CPU</h4>
 
 <p>In this presentation, I will describe the work I did on the open source LatticeMico32 softcore CPU to add a MMU (Memory Management Unit) to its pipeline and then how I added support for this enhanced LM32 CPU in the <a href="http://netbsd.org">NetBSD</a> 6 kernel.</p>
 
-<p>I will first quickly introduce the LatticeMico32 CPU and what FPGAs can do. Then I will focus on explaining what a MMU is and how the current MMU design that was added to LM32 works. I will then show an overview of the steps you need to accomplish to add support for a new CPU and a new System-on-Chip to the NetBSD kernel. Afterward I will explain some of the choices made for this port, especially those in relation with the handling of the MMU by the NetBSD kernel: the (machine-dependant) virtual memory system (aka pmap).</p>
+<p>I will first quickly introduce the LatticeMico32 CPU and what FPGAs can do. Then I will focus on explaining what a MMU is and how the current MMU design that was added to LM32 works. I will then show an overview of the steps you need to accomplish to add support for a new CPU and a new System-on-Chip to the NetBSD kernel. Afterward I will explain some of the choices made for this port, especially those in relation with the handling of the MMU by the NetBSD kernel: the (machine-dependent) virtual memory system (aka pmap).</p>
 
 <p>I will (try to) demo the boot of the NetBSD kernel on QEMU emulating LM32 CPU the and then on the Milkymist One board.</p>
 
