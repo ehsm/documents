@@ -54,10 +54,15 @@ h4 {
 }
 h3.timestamp { padding-left:10px; }
 p {
-	font-size: 1.35em;
-	margin: 0.3em 0 0.5em 0;
-	line-height: 1.3em;
+  font-size: 1.35em;
+  margin: 0.3em 0 0.5em 0;
+  line-height: 1.3em;
 }
+
+p.smaller {
+  font-size: 1.1em;
+}
+
 
 /* Menu and layout */
 #wrapper {
